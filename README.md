@@ -33,7 +33,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:Emirhan__GUL@outlook.com"><img img src="https://img.shields.io/badge/Microsoft%20Outlook-%23EA4335.svg?style=plastic&logo=Microsoft%20Outlook&logoColor=white" alt="Microsoft Outlook"/></a>
-	<a href="linkedin.com/in/emirhan-gul"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/emirhan-gul"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/emirhangul__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://www.hackerrank.com/Emirhan__GUL"><img src="https://img.shields.io/badge/Hackerrank-%23FFFC00.svg?style=plastic&logo=hackerrank&logoColor=black" alt="Snap Chat"/></a>
 </p>
