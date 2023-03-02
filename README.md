@@ -234,52 +234,52 @@
 <div>
   <p align="center">
 	<a href="https://github.com/Egroses/NinjaNindo">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=NinjaNindo&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/RichieRich">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=RichieRich&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/Egroses/ScoutsBattle">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=ScoutsBattle&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/Egroses/AgentSmith">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=AgentSmith&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/Egroses/VisualEffect">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=VisualEffect&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/ZombieIsland">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=ZombieIsland&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/PostOffice">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=PostOffice&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/Snake">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=Snake&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/IslandRun">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=IslandRun&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/C">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=C&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/Masa-Tenisi">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=Masa-Tenisi&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/Instagram-Bot">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=Instagram-Bot&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/Balloon-Game">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=Balloon-Game&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/Museum-Rental-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=Museum-Rental-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/Hanson">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=Hanson&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Egroses/TWO-OTOPARK">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Egroses&repo=TWO-OTOPARK&theme=tokyonight" alt="GitHub Stats" />
     	
   </p>
 </div>
