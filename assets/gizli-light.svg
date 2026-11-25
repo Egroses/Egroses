@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210" role="img" aria-label="A lit wall with a notice: nothing to see here">
+<title>A lit wall with a notice: nothing to see here</title>
+<style>
+.flicker{animation:fl 6s steps(1,end) infinite}
+@keyframes fl{0%,91%{opacity:1}92%{opacity:.55}93%{opacity:1}95%{opacity:.7}96%,100%{opacity:1}}
+</style>
+<defs>
+<linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#f7f8fa"/>
+  <stop offset="1" stop-color="#e6ebf0"/>
+</linearGradient>
+<radialGradient id="lamp" cx=".5" cy="0" r=".9">
+  <stop offset="0" stop-color="#fff8c5" stop-opacity=".95"/>
+  <stop offset="1" stop-color="#fff8c5" stop-opacity="0"/>
+</radialGradient>
+</defs>
+
+<rect width="880" height="210" rx="14" fill="url(#wall)"/>
+<g class="flicker">
+  <ellipse cx="210" cy="10" rx="260" ry="190" fill="url(#lamp)"/>
+</g>
+<rect x="180" y="0" width="60" height="8" rx="3" fill="#afb8c1"/>
+<rect x="192" y="8" width="36" height="6" rx="3" fill="#fff8c5" stroke="#afb8c1"/>
+<rect x="40" y="72" width="340" height="66" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="3"/><circle cx="52" cy="84" r="3" fill="#d1d9e0"/><circle cx="368" cy="84" r="3" fill="#d1d9e0"/><path d="M46.5 98h3v3h-3zM58.5 98h3v3h-3zM46.5 101h3v3h-3zM58.5 101h3v3h-3zM46.5 104h6v3h-6zM58.5 104h3v3h-3zM46.5 107h3v3h-3zM52.5 107h3v3h-3zM58.5 107h3v3h-3zM46.5 110h3v3h-3zM55.5 110h6v3h-6zM46.5 113h3v3h-3zM58.5 113h3v3h-3zM46.5 116h3v3h-3zM58.5 116h3v3h-3zM67.5 98h9v3h-9zM64.5 101h3v3h-3zM76.5 101h3v3h-3zM64.5 104h3v3h-3zM76.5 104h3v3h-3zM64.5 107h3v3h-3zM76.5 107h3v3h-3zM64.5 110h3v3h-3zM76.5 110h3v3h-3zM64.5 113h3v3h-3zM76.5 113h3v3h-3zM67.5 116h9v3h-9zM82.5 98h15v3h-15zM88.5 101h3v3h-3zM88.5 104h3v3h-3zM88.5 107h3v3h-3zM88.5 110h3v3h-3zM88.5 113h3v3h-3zM88.5 116h3v3h-3zM100.5 98h3v3h-3zM112.5 98h3v3h-3zM100.5 101h3v3h-3zM112.5 101h3v3h-3zM100.5 104h3v3h-3zM112.5 104h3v3h-3zM100.5 107h15v3h-15zM100.5 110h3v3h-3zM112.5 110h3v3h-3zM100.5 113h3v3h-3zM112.5 113h3v3h-3zM100.5 116h3v3h-3zM112.5 116h3v3h-3zM121.5 98h9v3h-9zM124.5 101h3v3h-3zM124.5 104h3v3h-3zM124.5 107h3v3h-3zM124.5 110h3v3h-3zM124.5 113h3v3h-3zM121.5 116h9v3h-9zM136.5 98h3v3h-3zM148.5 98h3v3h-3zM136.5 101h3v3h-3zM148.5 101h3v3h-3zM136.5 104h6v3h-6zM148.5 104h3v3h-3zM136.5 107h3v3h-3zM142.5 107h3v3h-3zM148.5 107h3v3h-3zM136.5 110h3v3h-3zM145.5 110h6v3h-6zM136.5 113h3v3h-3zM148.5 113h3v3h-3zM136.5 116h3v3h-3zM148.5 116h3v3h-3zM157.5 98h9v3h-9zM154.5 101h3v3h-3zM166.5 101h3v3h-3zM154.5 104h3v3h-3zM154.5 107h3v3h-3zM160.5 107h9v3h-9zM154.5 110h3v3h-3zM166.5 110h3v3h-3zM154.5 113h3v3h-3zM166.5 113h3v3h-3zM157.5 116h9v3h-9zM184.5 98h15v3h-15zM190.5 101h3v3h-3zM190.5 104h3v3h-3zM190.5 107h3v3h-3zM190.5 110h3v3h-3zM190.5 113h3v3h-3zM190.5 116h3v3h-3zM205.5 98h9v3h-9zM202.5 101h3v3h-3zM214.5 101h3v3h-3zM202.5 104h3v3h-3zM214.5 104h3v3h-3zM202.5 107h3v3h-3zM214.5 107h3v3h-3zM202.5 110h3v3h-3zM214.5 110h3v3h-3zM202.5 113h3v3h-3zM214.5 113h3v3h-3zM205.5 116h9v3h-9zM235.5 98h12v3h-12zM232.5 101h3v3h-3zM232.5 104h3v3h-3zM235.5 107h9v3h-9zM244.5 110h3v3h-3zM244.5 113h3v3h-3zM232.5 116h12v3h-12zM250.5 98h15v3h-15zM250.5 101h3v3h-3zM250.5 104h3v3h-3zM250.5 107h12v3h-12zM250.5 110h3v3h-3zM250.5 113h3v3h-3zM250.5 116h15v3h-15zM268.5 98h15v3h-15zM268.5 101h3v3h-3zM268.5 104h3v3h-3zM268.5 107h12v3h-12zM268.5 110h3v3h-3zM268.5 113h3v3h-3zM268.5 116h15v3h-15zM298.5 98h3v3h-3zM310.5 98h3v3h-3zM298.5 101h3v3h-3zM310.5 101h3v3h-3zM298.5 104h3v3h-3zM310.5 104h3v3h-3zM298.5 107h15v3h-15zM298.5 110h3v3h-3zM310.5 110h3v3h-3zM298.5 113h3v3h-3zM310.5 113h3v3h-3zM298.5 116h3v3h-3zM310.5 116h3v3h-3zM316.5 98h15v3h-15zM316.5 101h3v3h-3zM316.5 104h3v3h-3zM316.5 107h12v3h-12zM316.5 110h3v3h-3zM316.5 113h3v3h-3zM316.5 116h15v3h-15zM334.5 98h12v3h-12zM334.5 101h3v3h-3zM346.5 101h3v3h-3zM334.5 104h3v3h-3zM346.5 104h3v3h-3zM334.5 107h12v3h-12zM334.5 110h3v3h-3zM340.5 110h3v3h-3zM334.5 113h3v3h-3zM343.5 113h3v3h-3zM334.5 116h3v3h-3zM346.5 116h3v3h-3zM352.5 98h15v3h-15zM352.5 101h3v3h-3zM352.5 104h3v3h-3zM352.5 107h12v3h-12zM352.5 110h3v3h-3zM352.5 113h3v3h-3zM352.5 116h15v3h-15zM370.5 116h3v3h-3z" fill="#1f2328" shape-rendering="crispEdges"/>
+<rect x="816" y="64" width="40" height="64" rx="8" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/><rect x="829" y="74" width="14" height="44" rx="5" fill="#d1d9e0"/><rect x="827" y="78" width="18" height="16" rx="4" fill="#59636e"/><text x="836" y="146" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10" font-weight="700" fill="#59636e" letter-spacing="1">ON</text>
+<text x="856" y="200" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#afb8c1">some things only show up in the dark</text>
+
+</svg>
